@@ -5,6 +5,11 @@ VisualStudioVersion = 15.0.27130.2020
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XrmClone", "XrmClone.csproj", "{2D3C523A-942F-4161-856B-4B833999A74B}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solutions", "Solutions", "{27D5BBE9-77C2-4E08-B436-F96239F27F2E}"
+	ProjectSection(SolutionItems) = preProject
+		Solutions\XrmClone_1_0_target_CRM_8.0.zip = Solutions\XrmClone_1_0_target_CRM_8.0.zip
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
